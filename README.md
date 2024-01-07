@@ -7,7 +7,7 @@
 
 | 作者 | 网址 | 进度 |
 | --- | --- | --- |
-| Caster | soduku.hello-gpts.day | 完成第一版 |
+| Caster | soduku.hello-gpts.day | 完成第二版 |
 
 
 ## 训练营介绍
